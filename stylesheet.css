@@ -11,7 +11,7 @@ h1 {
   font-size: 36px;
 }
 header {
-	background-color:#fdf8b6 ;
+	background-color:#7f82b1;
 	color:#121211;
 	text-align: center;
 	padding: 10px;
@@ -51,7 +51,7 @@ nav a{
 
   justify-content: No-space;
 
-  background-color: #fdfacb;
+  background-color: #cbcddf;
 
   padding:0px;
 
@@ -71,7 +71,7 @@ nav a{
 .flex-item h2 {
 
   color: #333;
- font-size:30px
+ font-size:36px
 }
 
 .flex-item p {
@@ -81,7 +81,7 @@ nav a{
 }
 
 footer {
-  background-color: #fdf8b6 ;
+  background-color: #7f82b1 ;
   color: #000000;
   padding: 10px;
 }
